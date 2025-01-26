@@ -13,8 +13,10 @@ Made with HTML, TailwindCSS, and Javascript.
  - Skills list
  - About paragraph
 ### Projects page:
- - todo
- - navbar
+ - Navbar
+ - Panels for each project
+ - Github link button at the bottom of each panel
+ - 3 columns of panels
 ### External youtube channel link
 ### External github link
 <br>
